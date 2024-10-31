@@ -1,0 +1,46 @@
+
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    margin-top: 20px;
+    margin-left: 13%;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 70%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1.judul {
+    margin-bottom: 20px;
+}
+label {
+    font-weight: bold;
+}
+input[type="text"],
+input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+input[type="submit"],
+button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type="submit"] {
+    background-color: #007bff;
+    color: white;
+}
+button a {
+    text-decoration: none;
+    color: white;
+}
+button {
+    background-color: #6c757d;
+    margin-left: 10px;
+}
